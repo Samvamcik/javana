@@ -1,0 +1,19 @@
+{
+  "name": "javana",
+  "version": "1.0.0",
+  "description": "[demo проекта](https://samvamcik.github.io/javana/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samvamcik/javana.git"
+  },
+  "author": "Geliya13@yandex.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samvamcik/javana/issues"
+  },
+  "homepage": "https://github.com/Samvamcik/javana#readme"
+}
